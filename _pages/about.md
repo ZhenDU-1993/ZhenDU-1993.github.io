@@ -38,8 +38,9 @@ My research interests include integrated sensing and communication (ISAC) system
 
 # 📝 Publications 
 ## Under Review ##
-1. **Du Z**, Liu F, Li Y, et al. Towards ISAC-Empowered Vehicular Networks: Framework, Advances, and Opportunities[J]. IEEE Wireless Communications Magazine, 2023. (Major)
-2. **Du Z**, Liu F, Xiong Y, et al. Reshaping the ISAC Tradeoff Under OFDM Signaling: A Probabilistic Constellation Shaping Approach[J]. IEEE Transactions on Signal Processing, 2023. (Major)
+1. **Du Z**, Liu F, Li Y, et al. Towards ISAC-Empowered Vehicular Networks: Framework, Advances, and Opportunities[J]. Submitted to IEEE Wireless Communications Magazine, 2023. (Major)
+2. **Du Z**, Liu F, Xiong Y, et al. Reshaping the ISAC Tradeoff Under OFDM Signaling: A Probabilistic Constellation Shaping Approach[J]. Submitted to IEEE Transactions on Signal Processing, 2023. (Major)
+3. Xu J, **Du Z**, Wang J, Xu Y. An Experimental Validation of ISAC With Probabilistic Constellation Shaping Under OFDM Signaling[C]. Submitted to 2024 7th IEEE International Conference on Unmanned Systems.
 
 ## Journal ##
 1. **Du Z**, Liu F. Integrated Sensing and Communications for Emerging Applications in 6G Wireless Networks[M]. Fundamentals of 6G Communications and Networking, 2023: 377-397. (Invited)
