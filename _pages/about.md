@@ -64,8 +64,8 @@ My research interests include integrated sensing and communication (ISAC) system
 5. Liu Y, **Du Z**, Zhang F, et al. Implementation of Radar-Communication System based on GNU-Radio and USRP[C]. 2019 Computing, Communications and IoT Applications (ComComAp). IEEE, 2019: 417-421.
 
 # 🎖 Honors and Awards
-- *2023.12* Jiangsu Innovation and Entrepreneurship Doctor, Department of Human Resources and Social Security, Jiangsu Province.
-- *2016.06* Outstanding Undergraduate Student, Northwestern Polytechnical University.
+- *2023.12*, Jiangsu Innovation and Entrepreneurship Doctor, Department of Human Resources and Social Security, Jiangsu Province.
+- *2016.06*, Outstanding Undergraduate Student, Northwestern Polytechnical University.
 
 # 💬 Reviewer for Journals
 - IEEE Journal on Selected Areas in Communications (JSAC)
