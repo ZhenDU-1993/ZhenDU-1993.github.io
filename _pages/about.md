@@ -31,7 +31,6 @@ My research interests include integrated sensing and communication (ISAC) system
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 💻 Projects
-------
 1. National Natural Science Foundation of China (国家自然科学基金), 2024.01-2026.12, PI
 2. Natural Science Foundation of Jiangsu Province (江苏省自然科学基金), 2023.07-2026.06, PI
 3. Innovation and Entrepreneurship doctoral program of Jiangsu Province (江苏省创新创业博士项目), 2023-2025, PI
@@ -70,7 +69,28 @@ My research interests include integrated sensing and communication (ISAC) system
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Reviewer for Journals
+- IEEE Journal on Selected Areas in Communications (JSAC)
+- IEEE Transactions on Wireless Communications (TWC)
+- IEEE Transactions on Communications (TCOM)
+- IEEE Wireless Communications Magazine (WCM)
+- IEEE Communications Magazine (COMMAG)
+- IEEE Journal of Selected Topics in Signal Processing (JSTSP)
+- IEEE Transactions on Vehicular Technology (TVT)
+- IEEE Transactions on Green Communications and Networking (TGCN)
+- IEEE Open Journal of the Communications Society (OJCOMS)
+- IEEE Communications Letters (COMML)
+- IET Radar, Sonar & Navigation (RSN)
+- China Communications
+- 雷达学报
 
+# 💬 Reviewer or TPC Member for Conferences
+- 2022 1st ACM MobiCom Workshop on Integrated Sensing and Communication Systems
+- 2022 IEEE/CIC International Conference on Communications in China (ICCC)
+- 2022 IEEE 95th Vehicular Technology Conference (VTC2022-Spring)
+- 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+- 2022 IEEE Wireless Communications & Networking Conference (WCNC)
+- 2022 IEEE International Conference on Communications (ICC)
+- 2022 2nd IEEE International Symposium on Joint Communications & Sensing (JC&S)
+- 2021 IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)
+- 2021 IEEE 94th Vehicular Technology Conference (VTC2021-Fall)
