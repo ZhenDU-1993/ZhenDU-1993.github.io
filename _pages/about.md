@@ -17,6 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+
+# 🤵🏻 About Me
+
 I'm currently a lecturer (assistant professor) at Jiangsu Key Laboratory of Meteorological Observation and Information Processing, Nanjing University of Information Science and Technology (NUIST), Nanjing, China.  
 
 My research interests include:
@@ -24,7 +27,7 @@ My research interests include:
 - Beam management in vehicular networks.
 - Radar signal processing.
 
-# 📖 Educations and Work Experiences
+# 📖 Educations and Working Experiences
 - *2022.09 - (now)*, School of Electronic and Information Engineering, Nanjing University of Information Science and Technology, Lecturer.
 - *2021.06-2022.05*, Department of Electrical and Electronic Engineering, Southern University of Science and Technology, Visiting Researcher.
 - *2016.9 - 2022.3*, Information and Communication Engineering, Shanghai Jiao Tong University, Ph.D. Degree (Under the Supervision of Prof. Yirong Wu and Prof. Zenghui Zhang). 
