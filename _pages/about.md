@@ -23,7 +23,7 @@ My research interests include integrated sensing and communication (ISAC) system
 
 # 📖 Educations and Work Experiences
 - *2022.09 - (now)*, Nanjing University of Information Science and Technology, School of Electronic and Information Engineering, Lecturer. 
-- *2016.9 - 2022.3*, Shanghai Jiao Tong University, Information and Communication Engineering, Ph.D. Degree. 
+- *2016.9 - 2022.3*, Shanghai Jiao Tong University, Information and Communication Engineering, Ph.D. Degree (Under the Supervision of Prof. Yirong Wu and Prof. Zenghui Zhang). 
 - *2012.9 - 2016.7*, Northwestern Polytechnical University, Communication Engineering, B.Eng. Degree.
 
 # 🔥 News
