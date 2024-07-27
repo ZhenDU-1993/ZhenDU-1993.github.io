@@ -30,7 +30,7 @@ My research interests include:
 - *2016.9 - 2022.3*, Information and Communication Engineering, Shanghai Jiao Tong University, Ph.D. Degree (Under the Supervision of Prof. Yirong Wu and Prof. Zenghui Zhang). 
 - *2012.9 - 2016.7*, Communication Engineering, Northwestern Polytechnical University, B.Eng. Degree.
 
-{%# 🔥 News%}
+# 🔥 News
 
 # 💻 Projects
 1. National Natural Science Foundation of China (国家自然科学基金), 2024.01-2026.12, PI
