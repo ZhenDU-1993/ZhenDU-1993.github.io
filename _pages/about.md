@@ -21,6 +21,10 @@ I'm currently a lecturer (assistant professor) at Nanjing University of Informat
 
 My research interests include integrated sensing and communication (ISAC) systems, beam management in vehicular networks, and radar signal processing.
 
+# 📖 Educations and Work Experiences
+- *2022.09 - (now)*, Nanjing University of Information Science and Technology, School of Electronic and Information Engineering, Lecturer. 
+- *2016.9 - 2022.3*, Shanghai Jiao Tong University, Information and Communication Engineering, Ph.D. Degree. 
+- *2012.9 - 2016.7*, Northwestern Polytechnical University, Communication Engineering, B.Eng. Degree.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -46,9 +50,6 @@ My research interests include integrated sensing and communication (ISAC) system
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
