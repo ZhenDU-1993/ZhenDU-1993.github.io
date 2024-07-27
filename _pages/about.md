@@ -25,9 +25,10 @@ My research interests include:
 - Radar signal processing.
 
 # 📖 Educations and Work Experiences
-- *2022.09 - (now)*, Nanjing University of Information Science and Technology, School of Electronic and Information Engineering, Lecturer. 
-- *2016.9 - 2022.3*, Shanghai Jiao Tong University, Information and Communication Engineering, Ph.D. Degree (Under the Supervision of Prof. Yirong Wu and Prof. Zenghui Zhang). 
-- *2012.9 - 2016.7*, Northwestern Polytechnical University, Communication Engineering, B.Eng. Degree.
+- *2022.09 - (now)*, School of Electronic and Information Engineering, Nanjing University of Information Science and Technology, Lecturer.
+- *2021.06-2022.05*, Department of Electrical and Electronic Engineering, Southern University of Science and Technology, Visiting Researcher.
+- *2016.9 - 2022.3*, Information and Communication Engineering, Shanghai Jiao Tong University, Ph.D. Degree (Under the Supervision of Prof. Yirong Wu and Prof. Zenghui Zhang). 
+- *2012.9 - 2016.7*, Communication Engineering, Northwestern Polytechnical University, B.Eng. Degree.
 
 {%# 🔥 News%}
 
