@@ -40,8 +40,8 @@ My research interests include:
 - Mobile Communications
 
 # 💻 Projects
-1. National Natural Science Foundation of China (国家自然科学基金), 2024.01-2026.12, PI
-2. Natural Science Foundation of Jiangsu Province (江苏省自然科学基金), 2023.07-2026.06, PI
+1. National Natural Science Foundation of China (**国家自然科学基金青年项目**), 2024.01-2026.12, PI
+2. Natural Science Foundation of Jiangsu Province (**江苏省科技计划青年基金项目**), 2023.07-2026.06, PI
 3. Innovation and Entrepreneurship doctoral program of Jiangsu Province (江苏省创新创业博士项目), 2023-2025, PI
 4. Startup Foundation for Introducing Talent of NUIST (南京信息工程大学引进人才启动经费), 2023.01-2025.12, PI
 
@@ -74,8 +74,8 @@ My research interests include:
 5. Liu Y, **Du Z**, Zhang F, et al. Implementation of Radar-Communication System based on GNU-Radio and USRP[C]. 2019 Computing, Communications and IoT Applications (ComComAp). IEEE, 2019: 417-421.
 
 # 🎖 Honors and Awards
-- *2023.12*, Jiangsu Innovation and Entrepreneurship Doctor, Department of Human Resources and Social Security, Jiangsu Province.
-- *2016.06*, Outstanding Undergraduate Student, Northwestern Polytechnical University.
+- *2023.12*, Jiangsu Innovation and Entrepreneurship Doctor (江苏省双创博士), Department of Human Resources and Social Security, Jiangsu Province.
+- *2016.06*, Outstanding Undergraduate Student (校优秀本科毕业生), Northwestern Polytechnical University.
 
 # 💬 Reviewer for Journals
 - IEEE Journal on Selected Areas in Communications (JSAC)
