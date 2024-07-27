@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a lecturer (assistant professor) at Jiangsu Key Laboratory of Meteorological Observation and Information Processing, Nanjing University of Information Science and Technology (NUIST), Nanjing, China. 
+I'm currently a lecturer (assistant professor) at Jiangsu Key Laboratory of Meteorological Observation and Information Processing, Nanjing University of Information Science and Technology (NUIST), Nanjing, China.  
 
 My research interests include:
 - Integrated Sensing and Communications (ISAC).
@@ -31,6 +31,10 @@ My research interests include:
 - *2012.9 - 2016.7*, Communication Engineering, Northwestern Polytechnical University, B.Eng. Degree.
 
 # :school: Teaching
+- Signal Detection and Estimation
+- Meteorological Information and Networks Technology
+- Electromagnetic Field and Electromagnetic Wave
+- Mobile Communications
 
 # 💻 Projects
 1. National Natural Science Foundation of China (国家自然科学基金), 2024.01-2026.12, PI
