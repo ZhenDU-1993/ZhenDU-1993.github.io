@@ -30,7 +30,7 @@ My research interests include:
 - *2016.9 - 2022.3*, Information and Communication Engineering, Shanghai Jiao Tong University, Ph.D. Degree (Under the Supervision of Prof. Yirong Wu and Prof. Zenghui Zhang). 
 - *2012.9 - 2016.7*, Communication Engineering, Northwestern Polytechnical University, B.Eng. Degree.
 
-# 🔥 News
+# :school: Teaching
 
 # 💻 Projects
 1. National Natural Science Foundation of China (国家自然科学基金), 2024.01-2026.12, PI
@@ -44,7 +44,7 @@ My research interests include:
 2. **Du Z**, Liu F, Xiong Y, et al. Reshaping the ISAC Tradeoff Under OFDM Signaling: A Probabilistic Constellation Shaping Approach[J]. Submitted to IEEE Transactions on Signal Processing, 2023. (Major)
 3. Xu J, **Du Z**, Wang J, Xu Y. An Experimental Validation of ISAC With Probabilistic Constellation Shaping Under OFDM Signaling[C]. Submitted to 2024 7th IEEE International Conference on Unmanned Systems.
 
-## Journal ##
+## Journal Paper ##
 1. **Du Z**, Liu F. Integrated Sensing and Communications for Emerging Applications in 6G Wireless Networks[M]. Fundamentals of 6G Communications and Networking, 2023: 377-397. (Invited)
 2. Yuan W, **Du Z**, Meng X, et al. Integrated Sensing and Communication for Vehicular Networks[M]. Integrated Sensing and Communications. Singapore: Springer Nature Singapore, 2023: 419-444.
 3. **Du Z**, Liu F, Yuan W, et al. Integrated sensing and communications for V2I networks: Dynamic predictive beamforming for extended vehicle targets[J]. IEEE Transactions on Wireless Communications, 2023.
