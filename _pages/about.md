@@ -27,8 +27,6 @@ My research interests include integrated sensing and communication (ISAC) system
 - *2012.9 - 2016.7*, Northwestern Polytechnical University, Communication Engineering, B.Eng. Degree.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 💻 Projects
 1. National Natural Science Foundation of China (国家自然科学基金), 2024.01-2026.12, PI
