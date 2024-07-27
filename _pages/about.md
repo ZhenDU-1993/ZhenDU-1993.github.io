@@ -63,11 +63,9 @@ My research interests include integrated sensing and communication (ISAC) system
 4. Lu S, Meng X, Du Z, et al. On the performance gain of integrated sensing and communications: A subspace correlation perspective[C]. IEEE International Conference on Communications. IEEE, 2023: 2735-2740.
 5. Liu Y, Du Z, Zhang F, et al. Implementation of Radar-Communication System based on GNU-Radio and USRP[C]. 2019 Computing, Communications and IoT Applications (ComComAp). IEEE, 2019: 417-421.
 
-
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2023.12* Jiangsu Innovation and Entrepreneurship doctor, Department of Human Resources and Social Security, Jiangsu Province.
+- *2016.06* Outstanding undergraduate Student, Northwestern Polytechnical University.
 
 # 💬 Reviewer for Journals
 - IEEE Journal on Selected Areas in Communications (JSAC)
