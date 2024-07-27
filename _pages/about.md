@@ -22,7 +22,7 @@ I'm currently a lecturer (assistant professor) at Nanjing University of Informat
 My research interests include:
 - Integrated Sensing and Communications (ISAC).
 - Beam management in vehicular networks.
-- Radar signal processing..
+- Radar signal processing.
 
 # 📖 Educations and Work Experiences
 - *2022.09 - (now)*, Nanjing University of Information Science and Technology, School of Electronic and Information Engineering, Lecturer. 
