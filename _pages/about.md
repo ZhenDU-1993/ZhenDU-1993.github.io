@@ -30,16 +30,16 @@ My research interests include integrated sensing and communication (ISAC) system
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
-# Projects
+# 💻 Projects
 ------
 1. National Natural Science Foundation of China (国家自然科学基金), 2024.01-2026.12, PI
 2. Natural Science Foundation of Jiangsu Province (江苏省自然科学基金), 2023.07-2026.06, PI
 3. Innovation and Entrepreneurship doctoral program of Jiangsu Province (江苏省创新创业博士项目), 2023-2025, PI
 4. Startup Foundation for Introducing Talent of NUIST (南京信息工程大学引进人才启动经费), 2023.01-2025.12, PI
 
-
 # 📝 Publications 
 
+{%
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -53,6 +53,7 @@ My research interests include integrated sensing and communication (ISAC) system
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+%}
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -63,5 +64,3 @@ My research interests include integrated sensing and communication (ISAC) system
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
