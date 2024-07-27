@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhen Du (杜振)"
   avatar           : "images/bio.zhen.du.png"
-  bio              : "Jiangsu Key Laboratory of Meteorological Observation and Information Processing, Nanjing University of Information Science and Technology, Nanjing, China"
+  bio              : ""
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
