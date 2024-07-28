@@ -29,9 +29,9 @@ My research interests include:
 
 # 📖 Educations and Working Experiences
 - *2022.09 - (now)*, Nanjing University of Information Science and Technology (NUIST), School of Electronic and Information Engineering, Lecturer.
-- *2021.06-2022.05*, Southern University of Science and Technology (SUSTech), Department of Electrical and Electronic Engineering, Visiting Researcher.
-- *2016.9 - 2022.3*, Shanghai Jiao Tong University (SJTU), Information and Communication Engineering, Ph.D. Degree (Supervisors: Prof. Yirong Wu and Prof. Zenghui Zhang). 
-- *2012.9 - 2016.7*, Northwestern Polytechnical University (NWPU), Communication Engineering, B.Eng. Degree.
+- *2021.06 - 2022.05*, Southern University of Science and Technology (SUSTech), Department of Electrical and Electronic Engineering, Visiting Researcher.
+- *2016.09 - 2022.03*, Shanghai Jiao Tong University (SJTU), Information and Communication Engineering, Ph.D. Degree (Supervisors: Prof. Yirong Wu and Prof. Zenghui Zhang). 
+- *2012.09 - 2016.07*, Northwestern Polytechnical University (NWPU), Communication Engineering, B.Eng. Degree.
 
 # 🏫 Teaching
 - Signal Detection and Estimation
@@ -68,7 +68,7 @@ My research interests include:
 
 ## Conference Paper ##
 1. **Du Z**, Liu F, Zhang Z. Sensing-assisted beam tracking in V2I networks: Extended target case[C]. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022: 8727-8731. (Invited)
-2. **Du Z**, Liu F, Xiong Y, et al. Probabilistic constellation shaping for OFDM-based ISAC signaling[C]. IEEE Global Communications Conference Workshops (GLOBECOM Workshops), Kuala Lumpur, Malaysia, Dec 2023.>
+2. **Du Z**, Liu F, Xiong Y, et al. Probabilistic constellation shaping for OFDM-based ISAC signaling[C]. IEEE Global Communications Conference Workshops (GLOBECOM Workshops), Kuala Lumpur, Malaysia, Dec 2023.
 3. Li Y, Liu F, **Du Z**, et al. ISAC-Enabled V2I Networks Based on 5G NR: How Much Can the Overhead Be Reduced?[C]. IEEE International Conference on Communications Workshops (ICC Workshops). IEEE, 2023: 691-696.
 4. Lu S, Meng X, **Du Z**, et al. On the performance gain of integrated sensing and communications: A subspace correlation perspective[C]. IEEE International Conference on Communications. IEEE, 2023: 2735-2740.
 5. Liu Y, **Du Z**, Zhang F, et al. Implementation of Radar-Communication System based on GNU-Radio and USRP[C]. 2019 Computing, Communications and IoT Applications (ComComAp). IEEE, 2019: 417-421.
