@@ -20,7 +20,7 @@ redirect_from:
 
 # 🤵🏻 About Me
 
-I'm currently a lecturer (assistant professor) at Jiangsu Key Laboratory of Meteorological Observation and Information Processing, Nanjing University of Information Science and Technology (NUIST), Nanjing, China.  
+I'm currently an assistant professor at Jiangsu Key Laboratory of Meteorological Observation and Information Processing, Nanjing University of Information Science and Technology (NUIST), Nanjing, China. 
 
 My research interests include:
 - Integrated Sensing and Communications (ISAC).
