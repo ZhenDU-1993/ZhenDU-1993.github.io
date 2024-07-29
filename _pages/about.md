@@ -51,28 +51,30 @@ My research interests include:
 2. **Du Z**, Liu F, Xiong Y, et al. Reshaping the ISAC Tradeoff Under OFDM Signaling: A Probabilistic Constellation Shaping Approach[J]. Submitted to IEEE Transactions on Signal Processing, 2023. (Major)
 3. Xu J, **Du Z**, Wang J, Xu Y. An Experimental Validation of ISAC With Probabilistic Constellation Shaping Under OFDM Signaling[C]. Submitted to 2024 7th IEEE International Conference on Unmanned Systems.
 
-## Journal Paper ##
+## Book Chapter ##
 1. **Du Z**, Liu F. Integrated Sensing and Communications for Emerging Applications in 6G Wireless Networks[M]. Fundamentals of 6G Communications and Networking, 2023: 377-397. (Invited)
 2. Yuan W, **Du Z**, Meng X, et al. Integrated Sensing and Communication for Vehicular Networks[M]. Integrated Sensing and Communications. Singapore: Springer Nature Singapore, 2023: 419-444.
-3. **Du Z**, Liu F, Yuan W, et al. Integrated sensing and communications for V2I networks: Dynamic predictive beamforming for extended vehicle targets[J]. IEEE Transactions on Wireless Communications, 2023.
-4. Li Y, Liu F, **Du Z**, et al. Frame Structure and Protocol Design for Sensing-Assisted NR-V2X Communications[J]. IEEE Transactions on Mobile Computing, 2024.
-5. Lu Q, **Du Z**, Zhang Z. OFDM Waveform Design with Subcarrier Interval Constraint for Narrowband Interference Suppression in ISAC Systems[J]. IEEE Communications Letters, 2024.
+
+## Journal Paper ##
+1. Lu Q, **Du Z**, Zhang Z. OFDM Waveform Design with Subcarrier Interval Constraint for Narrowband Interference Suppression in ISAC Systems[J]. IEEE Communications Letters, 2024, 28(7): 1554-1558.
+2. Li Y, Liu F, **Du Z**, et al. Frame Structure and Protocol Design for Sensing-Assisted NR-V2X Communications[J]. IEEE Transactions on Mobile Computing, 2024.
+3. Xu Y, **Du Z**, Yuan W, et al. Performance of OTFS-NOMA Scheme for Coordinated Direct and Relay Transmission Networks in High-Mobility Scenarios[J]. IEEE Wireless Communications Letters, 2023, 12(12): 2268-2272.
+4. **Du Z**, Liu F, Yuan W, et al. Integrated sensing and communications for V2I networks: Dynamic predictive beamforming for extended vehicle targets[J]. IEEE Transactions on Wireless Communications, 2023, 22(6): 3612-3627.
+5. 李韫鑫, 刘凡, **杜振**, 袁伟杰. 面向5G NR车联网的感知辅助通信低开销传输技术. 移动通信, 2023.
 6. **Du Z**, Zhang F, Zhang Z, et al. Radar Detector in Uncoordinated Communication Interference Plus Partially Homogeneous Clutter[J]. IEEE Communications Letters, 2021, 25(6): 1999-2003.
-7. **Du Z**, Zhang Z, Yu W. Distributed target detection in communication interference and noise using OFDM radar[J]. IEEE Communications Letters, 2020, 25(2): 598-602.
-8. **Du Z**, Zhang Z, Yu W. Information theoretic waveform design for OFDM radar‐communication coexistence in Gaussian mixture interference[J]. IET Radar, Sonar & Navigation, 2019, 13(11): 2063-2070.
-9. **Du Z**, Zhang Z, Yu W. A Multicarrier Phase-Coded Waveform Design Scheme for Joint Radar and Communication System[J]. Chinese Journal of Electronics, 2021, 30(4): 769-780.
-10. **Du Z**, Zhang Z, Yu W. An adaptive OFDM detection strategy for range and Doppler spread targets in non-Gaussian clutter[J]. IEEE Access, 2018, 6: 61223-61232.
-11. Xu Y, **Du Z**, Yuan W, et al. Performance of OTFS-NOMA Scheme for Coordinated Direct and Relay Transmission Networks in High-Mobility Scenarios[J]. IEEE Wireless Communications Letters, 2023.
-12. Zhang Z, **Du Z**, Yu W. Mutual-information-based OFDM waveform design for integrated radar-communication system in Gaussian mixture clutter[J]. IEEE Sensors Letters, 2019, 4(1): 1-4.
-13. 李韫鑫, 刘凡, **杜振**, 袁伟杰. 面向5G NR车联网的感知辅助通信低开销传输技术. 移动通信, 2023.
+7. **Du Z**, Zhang Z, Yu W. A Multicarrier Phase-Coded Waveform Design Scheme for Joint Radar and Communication System[J]. Chinese Journal of Electronics, 2021, 30(4): 769-780.
+8. **Du Z**, Zhang Z, Yu W. Distributed target detection in communication interference and noise using OFDM radar[J]. IEEE Communications Letters, 2020, 25(2): 598-602.
+9. **Du Z**, Zhang Z, Yu W. Information theoretic waveform design for OFDM radar‐communication coexistence in Gaussian mixture interference[J]. IET Radar, Sonar & Navigation, 2019, 13(11): 2063-2070.
+10. Zhang Z, **Du Z**, Yu W. Mutual-information-based OFDM waveform design for integrated radar-communication system in Gaussian mixture clutter[J]. IEEE Sensors Letters, 2019, 4(1): 1-4.
+11. *Du Z**, Zhang Z, Yu W. An adaptive OFDM detection strategy for range and Doppler spread targets in non-Gaussian clutter[J]. IEEE Access, 2018, 6: 61223-61232.
 
 ## Conference Paper ##
-6. **Du Z**, Liu F, Xiong Y, et al. Probabilistic constellation shaping for OFDM-based ISAC signaling[C]. IEEE Global Communications Conference Workshops (GLOBECOM Workshops), Kuala Lumpur, Malaysia, Dec 2023.
-5. Xu Y, Jia S, Zhang D, Liu L, Zhang Z, **Du Z**. Spectral Efficiency of D2D-Enabled Cellular CDRT Systems Leveraging Backscatter NOMA[C]. 2023 IEEE Globecom Workshops (GC Wkshps). IEEE, 2023: 274-279.
-4. Lu S, Meng X, **Du Z**, et al. On the performance gain of integrated sensing and communications: A subspace correlation perspective[C]. IEEE International Conference on Communications. IEEE, 2023: 2735-2740.
-3. Li Y, Liu F, **Du Z**, et al. ISAC-Enabled V2I Networks Based on 5G NR: How Much Can the Overhead Be Reduced?[C]. IEEE International Conference on Communications Workshops (ICC Workshops). IEEE, 2023: 691-696.
-2. **Du Z**, Liu F, Zhang Z. Sensing-assisted beam tracking in V2I networks: Extended target case[C]. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022: 8727-8731. (Invited)
-1. Liu Y, **Du Z**, Zhang F, et al. Implementation of Radar-Communication System based on GNU-Radio and USRP[C]. 2019 Computing, Communications and IoT Applications (ComComAp). IEEE, 2019: 417-421.
+1. **Du Z**, Liu F, Xiong Y, et al. Probabilistic constellation shaping for OFDM-based ISAC signaling[C]. IEEE Global Communications Conference Workshops (GLOBECOM Workshops), Kuala Lumpur, Malaysia, Dec 2023.
+2. Xu Y, Jia S, Zhang D, Liu L, Zhang Z, **Du Z**. Spectral Efficiency of D2D-Enabled Cellular CDRT Systems Leveraging Backscatter NOMA[C]. 2023 IEEE Globecom Workshops (GC Wkshps). IEEE, 2023: 274-279.
+3. Lu S, Meng X, **Du Z**, et al. On the performance gain of integrated sensing and communications: A subspace correlation perspective[C]. IEEE International Conference on Communications. IEEE, 2023: 2735-2740.
+4. Li Y, Liu F, **Du Z**, et al. ISAC-Enabled V2I Networks Based on 5G NR: How Much Can the Overhead Be Reduced?[C]. IEEE International Conference on Communications Workshops (ICC Workshops). IEEE, 2023: 691-696.
+5. **Du Z**, Liu F, Zhang Z. Sensing-assisted beam tracking in V2I networks: Extended target case[C]. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022: 8727-8731. (Invited)
+6. Liu Y, **Du Z**, Zhang F, et al. Implementation of Radar-Communication System based on GNU-Radio and USRP[C]. 2019 Computing, Communications and IoT Applications (ComComAp). IEEE, 2019: 417-421.
 
 # 🎖 Honors and Awards
 - *2023.12*, Jiangsu Innovation and Entrepreneurship Doctor (江苏省双创博士), Department of Human Resources and Social Security, Jiangsu Province.
