@@ -40,10 +40,10 @@ My research interests include:
 - Mobile Communications
 
 # 💻 Projects
-1. National Natural Science Foundation of China (**国家自然科学基金青年项目**), 2024.01-2026.12, PI
-2. Natural Science Foundation of Jiangsu Province (**江苏省科技计划青年基金项目**), 2023.07-2026.06, PI
-3. Innovation and Entrepreneurship doctoral program of Jiangsu Province (江苏省创新创业博士项目), 2023-2025, PI
-4. Startup Foundation for Introducing Talent of NUIST (南京信息工程大学引进人才启动经费), 2023.01-2025.12, PI
+- National Natural Science Foundation of China (国家自然科学基金青年项目), 2024.01-2026.12, PI
+- Natural Science Foundation of Jiangsu Province (江苏省科技计划青年基金项目), 2023.07-2026.06, PI
+- Innovation and Entrepreneurship doctoral program of Jiangsu Province (江苏省创新创业博士项目), 2023-2025, PI
+- Startup Foundation for Introducing Talent of NUIST (南京信息工程大学引进人才启动经费), 2023.01-2025.12, PI
 
 # 📝 Publications 
 ## Under Review ## 
