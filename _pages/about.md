@@ -66,7 +66,7 @@ My research interests include:
 8. **Du Z**, Zhang Z, Yu W. Distributed target detection in communication interference and noise using OFDM radar[J]. IEEE Communications Letters, 2020, 25(2): 598-602.
 9. **Du Z**, Zhang Z, Yu W. Information theoretic waveform design for OFDM radar‐communication coexistence in Gaussian mixture interference[J]. IET Radar, Sonar & Navigation, 2019, 13(11): 2063-2070.
 10. Zhang Z, **Du Z**, Yu W. Mutual-information-based OFDM waveform design for integrated radar-communication system in Gaussian mixture clutter[J]. IEEE Sensors Letters, 2019, 4(1): 1-4.
-11. *Du Z**, Zhang Z, Yu W. An adaptive OFDM detection strategy for range and Doppler spread targets in non-Gaussian clutter[J]. IEEE Access, 2018, 6: 61223-61232.
+11. **Du Z**, Zhang Z, Yu W. An adaptive OFDM detection strategy for range and Doppler spread targets in non-Gaussian clutter[J]. IEEE Access, 2018, 6: 61223-61232.
 
 ## Conference Paper ## 
 1. **Du Z**, Liu F, Xiong Y, et al. Probabilistic constellation shaping for OFDM-based ISAC signaling[C]. IEEE Global Communications Conference Workshops (GLOBECOM Workshops), Kuala Lumpur, Malaysia, Dec 2023.
