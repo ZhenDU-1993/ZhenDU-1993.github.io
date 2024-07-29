@@ -90,20 +90,22 @@ My research interests include:
 - IEEE Transactions on Vehicular Technology (TVT)
 - IEEE Transactions on Green Communications and Networking (TGCN)
 - IEEE Open Journal of the Communications Society (OJCOMS)
+- IEEE Signal Processing Letters (SPL)
+- IEEE Wireless Communications Letters (WCL)
 - IEEE Communications Letters (COMML)
 - IET Radar, Sonar & Navigation (RSN)
 - China Communications
 - 雷达学报
 
 # 💬 Reviewer or TPC Member for Conferences
-- 2022 1st ACM MobiCom Workshop on Integrated Sensing and Communication Systems
-- 2022 IEEE/CIC International Conference on Communications in China (ICCC)
-- 2022 IEEE 95th Vehicular Technology Conference (VTC2022-Spring)
-- 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
-- 2022 IEEE Wireless Communications & Networking Conference (WCNC)
-- 2022 IEEE International Conference on Communications (ICC)
-- 2022 2nd IEEE International Symposium on Joint Communications & Sensing (JC&S)
-- 2021 IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)
-- 2021 IEEE 94th Vehicular Technology Conference (VTC2021-Fall)
+- ACM MobiCom Workshop on Integrated Sensing and Communication Systems
+- IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+- IEEE Global Communications Conference (GLOBECOM)
+- IEEE International Conference on Communications (ICC)
+- IEEE Wireless Communications & Networking Conference (WCNC)
+- IEEE/CIC International Conference on Communications in China (ICCC)
+- IEEE Vehicular Technology Conference (VTC)
+- IEEE International Symposium on Joint Communications & Sensing (JC&S)
+- IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
