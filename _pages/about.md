@@ -67,11 +67,12 @@ My research interests include:
 13. 李韫鑫, 刘凡, **杜振**, 袁伟杰. 面向5G NR车联网的感知辅助通信低开销传输技术. 移动通信, 2023.
 
 ## Conference Paper ##
-1. **Du Z**, Liu F, Zhang Z. Sensing-assisted beam tracking in V2I networks: Extended target case[C]. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022: 8727-8731. (Invited)
-2. **Du Z**, Liu F, Xiong Y, et al. Probabilistic constellation shaping for OFDM-based ISAC signaling[C]. IEEE Global Communications Conference Workshops (GLOBECOM Workshops), Kuala Lumpur, Malaysia, Dec 2023.
-3. Li Y, Liu F, **Du Z**, et al. ISAC-Enabled V2I Networks Based on 5G NR: How Much Can the Overhead Be Reduced?[C]. IEEE International Conference on Communications Workshops (ICC Workshops). IEEE, 2023: 691-696.
+6. **Du Z**, Liu F, Xiong Y, et al. Probabilistic constellation shaping for OFDM-based ISAC signaling[C]. IEEE Global Communications Conference Workshops (GLOBECOM Workshops), Kuala Lumpur, Malaysia, Dec 2023.
+5. Xu Y, Jia S, Zhang D, Liu L, Zhang Z, **Du Z**. Spectral Efficiency of D2D-Enabled Cellular CDRT Systems Leveraging Backscatter NOMA[C]. 2023 IEEE Globecom Workshops (GC Wkshps). IEEE, 2023: 274-279.
 4. Lu S, Meng X, **Du Z**, et al. On the performance gain of integrated sensing and communications: A subspace correlation perspective[C]. IEEE International Conference on Communications. IEEE, 2023: 2735-2740.
-5. Liu Y, **Du Z**, Zhang F, et al. Implementation of Radar-Communication System based on GNU-Radio and USRP[C]. 2019 Computing, Communications and IoT Applications (ComComAp). IEEE, 2019: 417-421.
+3. Li Y, Liu F, **Du Z**, et al. ISAC-Enabled V2I Networks Based on 5G NR: How Much Can the Overhead Be Reduced?[C]. IEEE International Conference on Communications Workshops (ICC Workshops). IEEE, 2023: 691-696.
+2. **Du Z**, Liu F, Zhang Z. Sensing-assisted beam tracking in V2I networks: Extended target case[C]. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022: 8727-8731. (Invited)
+1. Liu Y, **Du Z**, Zhang F, et al. Implementation of Radar-Communication System based on GNU-Radio and USRP[C]. 2019 Computing, Communications and IoT Applications (ComComAp). IEEE, 2019: 417-421.
 
 # 🎖 Honors and Awards
 - *2023.12*, Jiangsu Innovation and Entrepreneurship Doctor (江苏省双创博士), Department of Human Resources and Social Security, Jiangsu Province.
