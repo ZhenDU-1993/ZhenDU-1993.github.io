@@ -20,7 +20,7 @@ redirect_from:
 
 # 🤵🏻 About Me
 
-I'm currently an assistant professor at Jiangsu Key Laboratory of Meteorological Observation and Information Processing, Nanjing University of Information Science and Technology (NUIST), Nanjing, China. 
+I'm currently a lecturer at Jiangsu Key Laboratory of Meteorological Observation and Information Processing, Nanjing University of Information Science and Technology (NUIST), Nanjing, China. 
 
 My research interests include:
 - Integrated Sensing and Communications (ISAC).
@@ -47,9 +47,9 @@ My research interests include:
 
 # 📝 Publications 
 ## Under Review ## 
-1. **Du Z**, Liu F, Li Y, et al. Towards ISAC-Empowered Vehicular Networks: Framework, Advances, and Opportunities[J]. Submitted to IEEE Wireless Communications Magazine, 2023. (Major)
-2. **Du Z**, Liu F, Xiong Y, et al. Reshaping the ISAC Tradeoff Under OFDM Signaling: A Probabilistic Constellation Shaping Approach[J]. Submitted to IEEE Transactions on Signal Processing, 2023. (Major)
-3. Xu J, **Du Z**, Wang J, Xu Y. An Experimental Validation of ISAC With Probabilistic Constellation Shaping Under OFDM Signaling[C]. Submitted to 2024 7th IEEE International Conference on Unmanned Systems.
+1. **Du Z**, Liu F, Li Y, et al. Towards ISAC-Empowered Vehicular Networks: Framework, Advances, and Opportunities[J]. Submitted to IEEE Wireless Communications Magazine, 2023. (Major Revision)
+2. **Du Z**, Liu F, Xiong Y, et al. Reshaping the ISAC Tradeoff Under OFDM Signaling: A Probabilistic Constellation Shaping Approach[J]. Submitted to IEEE Transactions on Signal Processing, 2023. (Major Revision)
+
 
 ## Book Chapter ## 
 1. **Du Z**, Liu F. Integrated Sensing and Communications for Emerging Applications in 6G Wireless Networks[M]. Fundamentals of 6G Communications and Networking, 2023: 377-397. (Invited)
@@ -69,12 +69,13 @@ My research interests include:
 11. **Du Z**, Zhang Z, Yu W. An adaptive OFDM detection strategy for range and Doppler spread targets in non-Gaussian clutter[J]. IEEE Access, 2018, 6: 61223-61232.
 
 ## Conference Paper ## 
-1. **Du Z**, Liu F, Xiong Y, et al. Probabilistic constellation shaping for OFDM-based ISAC signaling[C]. IEEE Global Communications Conference Workshops (GLOBECOM Workshops), Kuala Lumpur, Malaysia, Dec 2023.
-2. Xu Y, Jia S, Zhang D, Liu L, Zhang Z, **Du Z**. Spectral Efficiency of D2D-Enabled Cellular CDRT Systems Leveraging Backscatter NOMA[C]. 2023 IEEE Globecom Workshops (GC Wkshps). IEEE, 2023: 274-279.
-3. Lu S, Meng X, **Du Z**, et al. On the performance gain of integrated sensing and communications: A subspace correlation perspective[C]. IEEE International Conference on Communications. IEEE, 2023: 2735-2740.
-4. Li Y, Liu F, **Du Z**, et al. ISAC-Enabled V2I Networks Based on 5G NR: How Much Can the Overhead Be Reduced?[C]. IEEE International Conference on Communications Workshops (ICC Workshops). IEEE, 2023: 691-696.
-5. **Du Z**, Liu F, Zhang Z. Sensing-assisted beam tracking in V2I networks: Extended target case[C]. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022: 8727-8731. (Invited)
-6. Liu Y, **Du Z**, Zhang F, et al. Implementation of Radar-Communication System based on GNU-Radio and USRP[C]. 2019 Computing, Communications and IoT Applications (ComComAp). IEEE, 2019: 417-421.
+1. Xu J, **Du Z**, Wang J, Xu Y. An Experimental Validation of ISAC With Probabilistic Constellation Shaping Under OFDM Signaling[C]. 2024 7th IEEE International Conference on Unmanned Systems. (Accepted)
+2. **Du Z**, Liu F, Xiong Y, et al. Probabilistic constellation shaping for OFDM-based ISAC signaling[C]. IEEE Global Communications Conference Workshops (GLOBECOM Workshops), Kuala Lumpur, Malaysia, Dec 2023.
+3. Xu Y, Jia S, Zhang D, Liu L, Zhang Z, **Du Z**. Spectral Efficiency of D2D-Enabled Cellular CDRT Systems Leveraging Backscatter NOMA[C]. 2023 IEEE Globecom Workshops (GC Wkshps). IEEE, 2023: 274-279.
+4. Lu S, Meng X, **Du Z**, et al. On the performance gain of integrated sensing and communications: A subspace correlation perspective[C]. IEEE International Conference on Communications. IEEE, 2023: 2735-2740.
+5. Li Y, Liu F, **Du Z**, et al. ISAC-Enabled V2I Networks Based on 5G NR: How Much Can the Overhead Be Reduced?[C]. IEEE International Conference on Communications Workshops (ICC Workshops). IEEE, 2023: 691-696.
+6. **Du Z**, Liu F, Zhang Z. Sensing-assisted beam tracking in V2I networks: Extended target case[C]. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022: 8727-8731. (Invited)
+7. Liu Y, **Du Z**, Zhang F, et al. Implementation of Radar-Communication System based on GNU-Radio and USRP[C]. 2019 Computing, Communications and IoT Applications (ComComAp). IEEE, 2019: 417-421.
 
 # 🎖 Honors and Awards
 - *2023.12*, Jiangsu Innovation and Entrepreneurship Doctor (江苏省双创博士), Department of Human Resources and Social Security, Jiangsu Province.
