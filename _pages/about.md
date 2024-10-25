@@ -54,7 +54,7 @@ My research interests include:
 2. Yuan W, **Du Z**, Meng X, et al. Integrated Sensing and Communication for Vehicular Networks[M]. Integrated Sensing and Communications. Singapore: Springer Nature Singapore, 2023: 419-444.
 
 ## Journal Paper ## 
-12. **Du Z**, Liu F, Xiong Y, et al. Reshaping the ISAC Tradeoff Under OFDM Signaling: A Probabilistic Constellation Shaping Approach[J]. IEEE Transactions on Signal Processing, 2024. (Accepted)
+12. **Du Z**, Liu F, Xiong Y, et al. Reshaping the ISAC Tradeoff Under OFDM Signaling: A Probabilistic Constellation Shaping Approach[J]. IEEE Transactions on Signal Processing, 2024. (**IEEE TSP Popular Paper**)
 11. Lu Q, **Du Z**, Zhang Z. OFDM Waveform Design with Subcarrier Interval Constraint for Narrowband Interference Suppression in ISAC Systems[J]. IEEE Communications Letters, 2024, 28(7): 1554-1558.
 10. Li Y, Liu F, **Du Z**, et al. Frame Structure and Protocol Design for Sensing-Assisted NR-V2X Communications[J]. IEEE Transactions on Mobile Computing, 2024.
 9. Xu Y, **Du Z**, Yuan W, et al. Performance of OTFS-NOMA Scheme for Coordinated Direct and Relay Transmission Networks in High-Mobility Scenarios[J]. IEEE Wireless Communications Letters, 2023, 12(12): 2268-2272.
@@ -68,7 +68,7 @@ My research interests include:
 1. **Du Z**, Zhang Z, Yu W. An adaptive OFDM detection strategy for range and Doppler spread targets in non-Gaussian clutter[J]. IEEE Access, 2018, 6: 61223-61232.
 
 ## Conference Paper ## 
-7. Xu J, **Du Z**, Wang J, Xu Y. An Experimental Validation of ISAC With Probabilistic Constellation Shaping Under OFDM Signaling[C]. 2024 7th IEEE International Conference on Unmanned Systems. (Accepted)
+7. Xu J, **Du Z**, Wang J, Xu Y. An Experimental Validation of ISAC With Probabilistic Constellation Shaping Under OFDM Signaling[C]. 2024 7th IEEE International Conference on Unmanned Systems.
 6. **Du Z**, Liu F, Xiong Y, et al. Probabilistic constellation shaping for OFDM-based ISAC signaling[C]. IEEE Global Communications Conference Workshops (GLOBECOM Workshops), Kuala Lumpur, Malaysia, Dec 2023.
 5. Xu Y, Jia S, Zhang D, Liu L, Zhang Z, **Du Z**. Spectral Efficiency of D2D-Enabled Cellular CDRT Systems Leveraging Backscatter NOMA[C]. 2023 IEEE Globecom Workshops (GC Wkshps). IEEE, 2023: 274-279.
 4. Lu S, Meng X, **Du Z**, et al. On the performance gain of integrated sensing and communications: A subspace correlation perspective[C]. IEEE International Conference on Communications. IEEE, 2023: 2735-2740.
