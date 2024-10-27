@@ -54,7 +54,7 @@ My research interests include:
 2. Yuan W, **Du Z**, Meng X, et al. Integrated Sensing and Communication for Vehicular Networks[M]. Integrated Sensing and Communications. Singapore: Springer Nature Singapore, 2023: 419-444.
 
 ## Journal Paper ## 
-12. **Du Z**, Liu F, Xiong Y, et al. Reshaping the ISAC Tradeoff Under OFDM Signaling: A Probabilistic Constellation Shaping Approach[J]. IEEE Transactions on Signal Processing, 2024. (**IEEE TSP Popular Paper**)
+12. **__Du Z__**, Liu F, Xiong Y, et al. Reshaping the ISAC Tradeoff Under OFDM Signaling: A Probabilistic Constellation Shaping Approach[J]. IEEE Transactions on Signal Processing, 2024. (**IEEE TSP Popular Paper**)
 11. Lu Q, **Du Z**, Zhang Z. OFDM Waveform Design with Subcarrier Interval Constraint for Narrowband Interference Suppression in ISAC Systems[J]. IEEE Communications Letters, 2024, 28(7): 1554-1558.
 10. Li Y, Liu F, **Du Z**, et al. Frame Structure and Protocol Design for Sensing-Assisted NR-V2X Communications[J]. IEEE Transactions on Mobile Computing, 2024.
 9. Xu Y, **Du Z**, Yuan W, et al. Performance of OTFS-NOMA Scheme for Coordinated Direct and Relay Transmission Networks in High-Mobility Scenarios[J]. IEEE Wireless Communications Letters, 2023, 12(12): 2268-2272.
