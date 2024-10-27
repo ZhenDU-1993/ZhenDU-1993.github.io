@@ -50,7 +50,7 @@ My research interests include:
 1. **Du Z**, Liu F, Li Y, et al. Towards ISAC-Empowered Vehicular Networks: Framework, Advances, and Opportunities[J]. Submitted to IEEE Wireless Communications Magazine, 2023. (Major Revision)
 
 ## Book Chapter ## 
-1. **Du Z**, Liu F. Integrated Sensing and Communications for Emerging Applications in 6G Wireless Networks[M]. Fundamentals of 6G Communications and Networking, 2023: 377-397. (Invited)
+1. **Du Z**, Liu F. Integrated Sensing and Communications for Emerging Applications in 6G Wireless Networks[M]. Fundamentals of 6G Communications and Networking, 2023: 377-397. (**Invited**)
 2. Yuan W, **Du Z**, Meng X, et al. Integrated Sensing and Communication for Vehicular Networks[M]. Integrated Sensing and Communications. Singapore: Springer Nature Singapore, 2023: 419-444.
 
 ## Journal Paper ## 
@@ -73,7 +73,7 @@ My research interests include:
 5. Xu Y, Jia S, Zhang D, Liu L, Zhang Z, **Du Z**. Spectral Efficiency of D2D-Enabled Cellular CDRT Systems Leveraging Backscatter NOMA[C]. 2023 IEEE Globecom Workshops (GC Wkshps). IEEE, 2023: 274-279.
 4. Lu S, Meng X, **Du Z**, et al. On the performance gain of integrated sensing and communications: A subspace correlation perspective[C]. IEEE International Conference on Communications. IEEE, 2023: 2735-2740.
 3. Li Y, Liu F, **Du Z**, et al. ISAC-Enabled V2I Networks Based on 5G NR: How Much Can the Overhead Be Reduced?[C]. IEEE International Conference on Communications Workshops (ICC Workshops). IEEE, 2023: 691-696.
-2. **Du Z**, Liu F, Zhang Z. Sensing-assisted beam tracking in V2I networks: Extended target case[C]. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022: 8727-8731. (Invited)
+2. **Du Z**, Liu F, Zhang Z. Sensing-assisted beam tracking in V2I networks: Extended target case[C]. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022: 8727-8731. (**Invited**)
 1. Liu Y, **Du Z**, Zhang F, et al. Implementation of Radar-Communication System based on GNU-Radio and USRP[C]. 2019 Computing, Communications and IoT Applications (ComComAp). IEEE, 2019: 417-421.
 
 # 🎖 Honors and Awards
@@ -97,7 +97,7 @@ My research interests include:
 - China Communications
 - 雷达学报
 
-# 💬 Reviewer or TPC Member for Conferences
+# 💬 Reviewer and TPC Member for Conferences
 - ACM MobiCom Workshop on Integrated Sensing and Communication Systems
 - IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
 - IEEE Global Communications Conference (GLOBECOM)
