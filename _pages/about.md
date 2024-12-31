@@ -46,14 +46,13 @@ My research interests include:
 - Startup Foundation for Introducing Talent of NUIST (南京信息工程大学引进人才启动经费), 2023.01-2025.12, PI
 
 # 📝 Publications 
-## Under Review ## 
-1. **Du Z**, Liu F, Li Y, et al. Towards ISAC-Empowered Vehicular Networks: Framework, Advances, and Opportunities[J]. Submitted to IEEE Wireless Communications Magazine, 2023. (Major Revision)
 
 ## Book Chapter ## 
 1. **Du Z**, Liu F. Integrated Sensing and Communications for Emerging Applications in 6G Wireless Networks[M]. Fundamentals of 6G Communications and Networking, 2023: 377-397. (**Invited**)
 2. Yuan W, **Du Z**, Meng X, et al. Integrated Sensing and Communication for Vehicular Networks[M]. Integrated Sensing and Communications. Singapore: Springer Nature Singapore, 2023: 419-444.
 
 ## Journal Paper ## 
+13. **Du Z**, Liu F, Li Y, et al. Towards ISAC-Empowered Vehicular Networks: Framework, Advances, and Opportunities[J]. IEEE Wireless Communications Magazine, 2024. (**Accepted**)
 12. **Du Z**, Liu F, Xiong Y, et al. Reshaping the ISAC Tradeoff Under OFDM Signaling: A Probabilistic Constellation Shaping Approach[J]. IEEE Transactions on Signal Processing, 2024. (**IEEE TSP Popular Paper**)
 11. Lu Q, **Du Z**, Zhang Z. OFDM Waveform Design with Subcarrier Interval Constraint for Narrowband Interference Suppression in ISAC Systems[J]. IEEE Communications Letters, 2024, 28(7): 1554-1558.
 10. Li Y, Liu F, **Du Z**, et al. Frame Structure and Protocol Design for Sensing-Assisted NR-V2X Communications[J]. IEEE Transactions on Mobile Computing, 2024.
