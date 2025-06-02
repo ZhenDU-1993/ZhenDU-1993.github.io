@@ -52,12 +52,13 @@ My research interests include:
 2. Yuan W, **Du Z**, Meng X, et al. Integrated Sensing and Communication for Vehicular Networks[M]. Integrated Sensing and Communications. Singapore: Springer Nature Singapore, 2023: 419-444.
 
 ## Journal Paper ## 
-13. **Du Z**, Liu F, Li Y, et al. Towards ISAC-Empowered Vehicular Networks: Framework, Advances, and Opportunities[J]. IEEE Wireless Communications Magazine, 2024. (**Accepted**)
+14. Lu S, Liu F, Xiong Y, **Du Z**, et al. Sensing With Random Communication Signals[J]. IEEE Network, 2025.
+13. **Du Z**, Liu F, Li Y, et al. Toward ISAC-Empowered Vehicular Networks: Framework, Advances, and Opportunities[J]. IEEE Wireless Communications Magazine, 2025, 32(2): 222-229. (**IEEE WCM Popular Paper**)
 12. **Du Z**, Liu F, Xiong Y, et al. Reshaping the ISAC Tradeoff Under OFDM Signaling: A Probabilistic Constellation Shaping Approach[J]. IEEE Transactions on Signal Processing, 2024. (**IEEE TSP Popular Paper**)
 11. Lu Q, **Du Z**, Zhang Z. OFDM Waveform Design with Subcarrier Interval Constraint for Narrowband Interference Suppression in ISAC Systems[J]. IEEE Communications Letters, 2024, 28(7): 1554-1558.
 10. Li Y, Liu F, **Du Z**, et al. Frame Structure and Protocol Design for Sensing-Assisted NR-V2X Communications[J]. IEEE Transactions on Mobile Computing, 2024.
 9. Xu Y, **Du Z**, Yuan W, et al. Performance of OTFS-NOMA Scheme for Coordinated Direct and Relay Transmission Networks in High-Mobility Scenarios[J]. IEEE Wireless Communications Letters, 2023, 12(12): 2268-2272.
-8. **Du Z**, Liu F, Yuan W, et al. Integrated sensing and communications for V2I networks: Dynamic predictive beamforming for extended vehicle targets[J]. IEEE Transactions on Wireless Communications, 2023, 22(6): 3612-3627.
+8. **Du Z**, Liu F, Yuan W, et al. Integrated sensing and communications for V2I networks: Dynamic predictive beamforming for extended vehicle targets[J]. IEEE Transactions on Wireless Communications, 2023, 22(6): 3612-3627. (**IEEE TWC Popular Paper**)
 7. 李韫鑫, 刘凡, **杜振**, 袁伟杰. 面向5G NR车联网的感知辅助通信低开销传输技术. 移动通信, 2023.
 6. **Du Z**, Zhang F, Zhang Z, et al. Radar Detector in Uncoordinated Communication Interference Plus Partially Homogeneous Clutter[J]. IEEE Communications Letters, 2021, 25(6): 1999-2003.
 5. **Du Z**, Zhang Z, Yu W. A Multicarrier Phase-Coded Waveform Design Scheme for Joint Radar and Communication System[J]. Chinese Journal of Electronics, 2021, 30(4): 769-780.
