@@ -96,6 +96,7 @@ My research interests include:
 - IEEE Communications Letters (COMML)
 - IET Radar, Sonar & Navigation (RSN)
 - China Communications
+- Science China Information sciences
 - 雷达学报
 
 # 💬 Reviewer and TPC Member for Conferences
