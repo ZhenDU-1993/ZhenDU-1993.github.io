@@ -55,7 +55,7 @@ My research interests include:
 ## Journal Paper ## 
 14. Lu Shihang, Liu Fan, Xiong Yifeng, **Du Zhen**, et al. Sensing With Random Communication Signals[J]. IEEE Network, 2025.
 13. **Du Zhen**, Liu Fan, Li Yunxin, et al. Toward ISAC-Empowered Vehicular Networks: Framework, Advances, and Opportunities[J]. <font color=#0099ff>IEEE Wireless Communications Magazine</font>, 2025, 32(2): 222-229. (**IEEE WCM Popular Paper**)
-12. **Du Zhen**, Liu Fan, Xiong Yifeng, et al. Reshaping the ISAC Tradeoff Under OFDM Signaling: A Probabilistic Constellation Shaping Approach[J]. IEEE Transactions on Signal Processing, 2024. (**IEEE TSP Popular Paper**)
+12. **Du Zhen**, Liu Fan, Xiong Yifeng, et al. Reshaping the ISAC Tradeoff Under OFDM Signaling: A Probabilistic Constellation Shaping Approach[J]. <font color=red>IEEE Transactions on Signal Processing</font>, 2024. (**IEEE TSP Popular Paper**)
 11. Lu Qinghui, **Du Zhen**, Zhang Zenghui. OFDM Waveform Design with Subcarrier Interval Constraint for Narrowband Interference Suppression in ISAC Systems[J]. IEEE Communications Letters, 2024, 28(7): 1554-1558.
 10. Li Yunxin, Liu Fan, **Du Zhen**, et al. Frame Structure and Protocol Design for Sensing-Assisted NR-V2X Communications[J]. IEEE Transactions on Mobile Computing, 2024.
 9. Xu Yao, **Du Zhen**, Yuan Weijie, et al. Performance of OTFS-NOMA Scheme for Coordinated Direct and Relay Transmission Networks in High-Mobility Scenarios[J]. IEEE Wireless Communications Letters, 2023, 12(12): 2268-2272.
