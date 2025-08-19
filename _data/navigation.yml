@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "About Me"
-     url: "/zhendu.github.io/#about-me"
+     url: "/#about-me"
 
- - title: "News"
-     url: "/zhendu.github.io/#-news"
+ - title: "teaching"
+     url: "/#-teaching"
 
    - title: "Publications"
      url: "/#-publications"
@@ -15,7 +15,7 @@ main:
   - title: "Educations"
      url: "/#-educations"
 
-  - title: "Invited Talks"
+  - title: "Projects"
      url: "/#-invited-talks"
 
    - title: "Internships"
