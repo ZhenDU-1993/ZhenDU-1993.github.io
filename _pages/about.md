@@ -79,7 +79,7 @@ My research interests include:
 2. **Du Zhen**, Liu Fan, Zhang Zenghui. Sensing-assisted beam tracking in V2I networks: Extended target case[C]. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022: 8727-8731. (**Invited**)
 1. Liu Yu, **Du Zhen**, Zhang Fuqiang, et al. Implementation of Radar-Communication System based on GNU-Radio and USRP[C]. 2019 Computing, Communications and IoT Applications (ComComAp). IEEE, 2019: 417-421.
 
-# 🎖 Honors and Awards
+# 🎖️ Honors and Awards
 - *2023.12*, Jiangsu Innovation and Entrepreneurship Doctor (江苏省双创博士), Department of Human Resources and Social Security, Jiangsu Province.
 - *2016.06*, Outstanding Undergraduate Student (校优秀本科毕业生), Northwestern Polytechnical University.
 
