@@ -27,20 +27,22 @@ My research interests include:
 - Beam management in vehicular networks.
 - Radar signal processing.
 
-# 📖 Educations and Working Experiences
-- *2025.07 - (now)*, Nanjing University of Information Science and Technology (NUIST), School of Electronic and Information Engineering, Associate Professor.
-- *2022.09 - 2025.06*, Nanjing University of Information Science and Technology (NUIST), School of Electronic and Information Engineering, Lecturer.
-- *2021.06 - 2022.05*, Southern University of Science and Technology (SUSTech), Department of Electrical and Electronic Engineering, Visiting Researcher.
+# 🎓 Education
 - *2016.09 - 2022.03*, Shanghai Jiao Tong University (SJTU), Information and Communication Engineering, Ph.D. Degree (Supervisors: Prof. Yirong Wu and Prof. Zenghui Zhang). 
 - *2012.09 - 2016.07*, Northwestern Polytechnical University (NWPU), Communication Engineering, B.Eng. Degree.
 
-# 🏫 Teaching
+# 💼 Working Experiences
+- *2025.07 - (now)*, Nanjing University of Information Science and Technology (NUIST), School of Electronic and Information Engineering, Associate Professor.
+- *2022.09 - 2025.06*, Nanjing University of Information Science and Technology (NUIST), School of Electronic and Information Engineering, Lecturer.
+- *2021.06 - 2022.05*, Southern University of Science and Technology (SUSTech), Department of Electrical and Electronic Engineering, Visiting Researcher.
+  
+# 📚 Teaching
 - Signal Detection and Estimation
 - Meteorological Information and Networks Technology
 - Electromagnetic Field and Electromagnetic Wave
 - Mobile Communications
 
-# 💻 Projects
+# 📡 Projects
 - National Natural Science Foundation of China (国家自然科学基金青年项目), 2024.01-2026.12, PI
 - Natural Science Foundation of Jiangsu Province (江苏省科技计划青年基金项目), 2023.07-2026.06, PI
 - Innovation and Entrepreneurship doctoral program of Jiangsu Province (江苏省创新创业博士项目), 2023-2025, PI
@@ -54,7 +56,7 @@ My research interests include:
 
 ## Journal Paper ## 
 14. Lu Shihang, Liu Fan, Xiong Yifeng, **Du Zhen**, et al. Sensing With Random Communication Signals[J]. IEEE Network, 2025.
-13. **Du Zhen**, Liu Fan, Li Yunxin, et al. Toward ISAC-Empowered Vehicular Networks: Framework, Advances, and Opportunities[J]. [color=red]IEEE Wireless Communications Magazine[/color], 2025, 32(2): 222-229. (**IEEE WCM Popular Paper**)
+13. **Du Zhen**, Liu Fan, Li Yunxin, et al. Toward ISAC-Empowered Vehicular Networks: Framework, Advances, and Opportunities[J]. IEEE Wireless Communications Magazine, 2025, 32(2): 222-229. (**IEEE WCM Popular Paper**)
 12. **Du Zhen**, Liu Fan, Xiong Yifeng, et al. Reshaping the ISAC Tradeoff Under OFDM Signaling: A Probabilistic Constellation Shaping Approach[J]. <font color=red>IEEE Transactions on Signal Processing</font>, 2024. (**IEEE TSP Popular Paper**)
 11. Lu Qinghui, **Du Zhen**, Zhang Zenghui. OFDM Waveform Design with Subcarrier Interval Constraint for Narrowband Interference Suppression in ISAC Systems[J]. IEEE Communications Letters, 2024, 28(7): 1554-1558.
 10. Li Yunxin, Liu Fan, **Du Zhen**, et al. Frame Structure and Protocol Design for Sensing-Assisted NR-V2X Communications[J]. IEEE Transactions on Mobile Computing, 2024.
@@ -81,7 +83,7 @@ My research interests include:
 - *2023.12*, Jiangsu Innovation and Entrepreneurship Doctor (江苏省双创博士), Department of Human Resources and Social Security, Jiangsu Province.
 - *2016.06*, Outstanding Undergraduate Student (校优秀本科毕业生), Northwestern Polytechnical University.
 
-# 💬 Reviewer for Journals
+# 🔍 Reviewer for Journals
 - IEEE Journal on Selected Areas in Communications (JSAC)
 - IEEE Transactions on Wireless Communications (TWC)
 - IEEE Transactions on Communications (TCOM)
@@ -99,7 +101,7 @@ My research interests include:
 - Science China Information sciences
 - 雷达学报
 
-# 💬 Reviewer and TPC Member for Conferences
+# 🔍 Reviewer and TPC Member for Conferences
 - ACM MobiCom Workshop on Integrated Sensing and Communication Systems
 - IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
 - IEEE Global Communications Conference (GLOBECOM)
@@ -110,4 +112,3 @@ My research interests include:
 - IEEE International Symposium on Joint Communications & Sensing (JC&S)
 - IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)
 
-<script type="text/javascript" src="//http://rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
