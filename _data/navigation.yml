@@ -1,22 +1,22 @@
 # main links links
 main:
- # - title: "About Me"
+  - title: "About Me"
      url: "/zhendu.github.io/#about-me"
 
- #- title: "News"
+ - title: "News"
      url: "/zhendu.github.io/#-news"
 
- #  - title: "Publications"
+   - title: "Publications"
      url: "/#-publications"
 
- #  - title: "Honors and Awards"
+   - title: "Honors and Awards"
      url: "/#-honors-and-awards"
 
-  # - title: "Educations"
+  - title: "Educations"
      url: "/#-educations"
 
- #  - title: "Invited Talks"
+  - title: "Invited Talks"
      url: "/#-invited-talks"
 
-#   - title: "Internships"
+   - title: "Internships"
      url: "/#-internships"
