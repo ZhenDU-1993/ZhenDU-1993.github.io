@@ -36,18 +36,6 @@ My research interests include:
 - *2022.09 - 2025.06*, Nanjing University of Information Science and Technology (NUIST), School of Electronic and Information Engineering, Lecturer.
 - *2021.06 - 2022.05*, Southern University of Science and Technology (SUSTech), Department of Electrical and Electronic Engineering, Visiting Researcher.
   
-# 📚 Teaching
-- Signal Detection and Estimation
-- Meteorological Information and Networks Technology
-- Electromagnetic Field and Electromagnetic Wave
-- Mobile Communications
-
-# 📡 Projects
-- National Natural Science Foundation of China (国家自然科学基金青年项目), 2024.01-2026.12, PI
-- Natural Science Foundation of Jiangsu Province (江苏省科技计划青年基金项目), 2023.07-2026.06, PI
-- Innovation and Entrepreneurship doctoral program of Jiangsu Province (江苏省创新创业博士项目), 2023-2025, PI
-- Startup Foundation for Introducing Talent of NUIST (南京信息工程大学引进人才启动经费), 2023.01-2025.12, PI
-
 # 📝 Publications 
 
 ## 📄 Book Chapter ## 
@@ -82,6 +70,22 @@ My research interests include:
 # 🎖️ Honors and Awards
 - *2023.12*, Jiangsu Innovation and Entrepreneurship Doctor (江苏省双创博士), Department of Human Resources and Social Security, Jiangsu Province.
 - *2016.06*, Outstanding Undergraduate Student (校优秀本科毕业生), Northwestern Polytechnical University.
+
+# 👥 Professional Membership
+- Member of Youth Academic Committee, Radar Society of the Chinese Institute of Electronics (CIE) (中国电子学会雷达分会，青年学术委员会，委员)
+- Member of IEEE, CIE
+
+  # 📚 Teaching
+- Signal Detection and Estimation
+- Meteorological Information and Networks Technology
+- Electromagnetic Field and Electromagnetic Wave
+- Mobile Communications
+
+# 📡 Projects
+- National Natural Science Foundation of China (国家自然科学基金青年项目), 2024.01-2026.12, PI
+- Natural Science Foundation of Jiangsu Province (江苏省科技计划青年基金项目), 2023.07-2026.06, PI
+- Innovation and Entrepreneurship doctoral program of Jiangsu Province (江苏省创新创业博士项目), 2023-2025, PI
+- Startup Foundation for Introducing Talent of NUIST (南京信息工程大学引进人才启动经费), 2023.01-2025.12, PI
 
 # 🔍 Reviewer for Journals
 - IEEE Journal on Selected Areas in Communications (JSAC)
