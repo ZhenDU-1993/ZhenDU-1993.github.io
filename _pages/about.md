@@ -30,11 +30,6 @@ My research interests include:
 # 🎓 Education
 - *2016.09 - 2022.03*, Shanghai Jiao Tong University (SJTU), Information and Communication Engineering, Ph.D. Degree (Supervisors: Prof. Yirong Wu and Prof. Zenghui Zhang). 
 - *2012.09 - 2016.07*, Northwestern Polytechnical University (NWPU), Communication Engineering, B.Eng. Degree.
-
-# 💼 Working Experiences
-- *2025.07 - (now)*, Nanjing University of Information Science and Technology (NUIST), School of Electronic and Information Engineering, Associate Professor.
-- *2022.09 - 2025.06*, Nanjing University of Information Science and Technology (NUIST), School of Electronic and Information Engineering, Lecturer.
-- *2021.06 - 2022.05*, Southern University of Science and Technology (SUSTech), Department of Electrical and Electronic Engineering, Visiting Researcher.
   
 # 📝 Publications 
 
