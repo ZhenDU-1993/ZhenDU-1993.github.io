@@ -55,15 +55,15 @@ My research interests include:
 2. Yuan Weijie, **Du Zhen**, Meng Xiao, et al. Integrated Sensing and Communication for Vehicular Networks[M]. Integrated Sensing and Communications. Singapore: Springer Nature Singapore, 2023: 419-444.
 
 ## Journal Paper ## 
-1. Lu Shihang, Liu Fan, Xiong Yifeng, **Du Zhen**, et al. Sensing With Random Communication Signals[J]. IEEE Network, 2025.
-2. **Du Zhen**, Liu Fan, Li Yunxin, et al. Toward ISAC-Empowered Vehicular Networks: Framework, Advances, and Opportunities[J]. ***IEEE Wireless Communications Magazine***, 2025, 32(2): 222-229. (🔥**IEEE WCM Popular Paper**)
-3. **Du Zhen**, Liu Fan, Xiong Yifeng, et al. Reshaping the ISAC Tradeoff Under OFDM Signaling: A Probabilistic Constellation Shaping Approach[J]. ***IEEE Transactions on Signal Processing***, 2024. (🔥**IEEE TSP Popular Paper**)
-4. **Du Zhen**, Liu Fan, Yuan Weijie, et al. Integrated sensing and communications for V2I networks: Dynamic predictive beamforming for extended vehicle targets[J]. ***IEEE Transactions on Wireless Communications***, 2023, 22(6): 3612-3627. (🔥**IEEE TWC Popular Paper**)
-5. **Du Zhen**, Zhang Fuqiang, Zhang Zenghui, et al. Radar Detector in Uncoordinated Communication Interference Plus Partially Homogeneous Clutter[J]. IEEE Communications Letters, 2021, 25(6): 1999-2003.
-6. **Du Zhen**, Zhang Zenghui, Yu Wenxian. A Multicarrier Phase-Coded Waveform Design Scheme for Joint Radar and Communication System[J]. Chinese Journal of Electronics, 2021, 30(4): 769-780.
-7. **Du Zhen**, Zhang Zenghui, Yu Wenxian. Distributed target detection in communication interference and noise using OFDM radar[J]. IEEE Communications Letters, 2020, 25(2): 598-602.
-8. **Du Zhen**, Zhang Zenghui, Yu Wenxian. Information theoretic waveform design for OFDM radar‐communication coexistence in Gaussian mixture interference[J]. IET Radar, Sonar & Navigation, 2019, 13(11): 2063-2070.
-9. **Du Zhen**, Zhang Zenghui, Yu Wenxian. An adaptive OFDM detection strategy for range and Doppler spread targets in non-Gaussian clutter[J]. IEEE Access, 2018, 6: 61223-61232.
+1. **Du Zhen**, Liu Fan, Li Yunxin, et al. Toward ISAC-Empowered Vehicular Networks: Framework, Advances, and Opportunities[J]. ***IEEE Wireless Communications Magazine***, 2025, 32(2): 222-229. (🔥**IEEE WCM Popular Paper**)
+2. **Du Zhen**, Liu Fan, Xiong Yifeng, et al. Reshaping the ISAC Tradeoff Under OFDM Signaling: A Probabilistic Constellation Shaping Approach[J]. ***IEEE Transactions on Signal Processing***, 2024. (🔥**IEEE TSP Popular Paper**)
+3. **Du Zhen**, Liu Fan, Yuan Weijie, et al. Integrated sensing and communications for V2I networks: Dynamic predictive beamforming for extended vehicle targets[J]. ***IEEE Transactions on Wireless Communications***, 2023, 22(6): 3612-3627. (🔥**IEEE TWC Popular Paper**)
+4. **Du Zhen**, Zhang Fuqiang, Zhang Zenghui, et al. Radar Detector in Uncoordinated Communication Interference Plus Partially Homogeneous Clutter[J]. IEEE Communications Letters, 2021, 25(6): 1999-2003.
+5. **Du Zhen**, Zhang Zenghui, Yu Wenxian. A Multicarrier Phase-Coded Waveform Design Scheme for Joint Radar and Communication System[J]. Chinese Journal of Electronics, 2021, 30(4): 769-780.
+6. **Du Zhen**, Zhang Zenghui, Yu Wenxian. Distributed target detection in communication interference and noise using OFDM radar[J]. IEEE Communications Letters, 2020, 25(2): 598-602.
+7. **Du Zhen**, Zhang Zenghui, Yu Wenxian. Information theoretic waveform design for OFDM radar‐communication coexistence in Gaussian mixture interference[J]. IET Radar, Sonar & Navigation, 2019, 13(11): 2063-2070.
+8. **Du Zhen**, Zhang Zenghui, Yu Wenxian. An adaptive OFDM detection strategy for range and Doppler spread targets in non-Gaussian clutter[J]. IEEE Access, 2018, 6: 61223-61232.
+9. Lu Shihang, Liu Fan, Xiong Yifeng, **Du Zhen**, et al. Sensing With Random Communication Signals[J]. IEEE Network, 2025.10.
 10. Lu Qinghui, **Du Zhen**, Zhang Zenghui. OFDM Waveform Design with Subcarrier Interval Constraint for Narrowband Interference Suppression in ISAC Systems[J]. IEEE Communications Letters, 2024, 28(7): 1554-1558.
 11. Zhang Zenghui, **Du Zhen**, Yu Wenxian. Mutual-information-based OFDM waveform design for integrated radar-communication system in Gaussian mixture clutter[J]. IEEE Sensors Letters, 2019, 4(1): 1-4.
 12. Li Yunxin, Liu Fan, **Du Zhen**, et al. Frame Structure and Protocol Design for Sensing-Assisted NR-V2X Communications[J]. IEEE Transactions on Mobile Computing, 2024.
