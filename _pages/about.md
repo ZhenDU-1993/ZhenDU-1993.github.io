@@ -70,7 +70,7 @@ My research interests include:
 - Member of Youth Academic Committee, Radar Society of the Chinese Institute of Electronics (CIE)
 - Member of IEEE, CIE
 
-  # 📚 Teaching
+# 📚 Teaching
 - Signal Detection and Estimation
 - Meteorological Information and Networks Technology
 - Electromagnetic Field and Electromagnetic Wave
