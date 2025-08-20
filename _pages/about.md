@@ -72,7 +72,7 @@ My research interests include:
 - *2016.06*, Outstanding Undergraduate Student (校优秀本科毕业生), Northwestern Polytechnical University.
 
 # 👥 Professional Membership
-- Member of Youth Academic Committee, Radar Society of the Chinese Institute of Electronics (CIE) (中国电子学会雷达分会，青年学术委员会，委员)
+- Member of Youth Academic Committee, Radar Society of the Chinese Institute of Electronics (CIE)
 - Member of IEEE, CIE
 
   # 📚 Teaching
