@@ -50,11 +50,11 @@ My research interests include:
 
 # 📝 Publications 
 
-## Book Chapter ## 
+## 📄 Book Chapter ## 
 1. **Du Zhen**, Liu Fan. Integrated Sensing and Communications for Emerging Applications in 6G Wireless Networks[M]. Fundamentals of 6G Communications and Networking, 2023: 377-397. (**Invited**)
 2. Yuan Weijie, **Du Zhen**, Meng Xiao, et al. Integrated Sensing and Communication for Vehicular Networks[M]. Integrated Sensing and Communications. Singapore: Springer Nature Singapore, 2023: 419-444.
 
-## Journal Paper ## 
+## 📄 Journal Paper ## 
 1. **Du Zhen**, Liu Fan, Li Yunxin, et al. Toward ISAC-Empowered Vehicular Networks: Framework, Advances, and Opportunities[J]. ***IEEE Wireless Communications Magazine***, 2025, 32(2): 222-229. (🔥**IEEE WCM Popular Paper**)
 2. **Du Zhen**, Liu Fan, Xiong Yifeng, et al. Reshaping the ISAC Tradeoff Under OFDM Signaling: A Probabilistic Constellation Shaping Approach[J]. ***IEEE Transactions on Signal Processing***, 2024. (🔥**IEEE TSP Popular Paper**)
 3. **Du Zhen**, Liu Fan, Yuan Weijie, et al. Integrated sensing and communications for V2I networks: Dynamic predictive beamforming for extended vehicle targets[J]. ***IEEE Transactions on Wireless Communications***, 2023, 22(6): 3612-3627. (🔥**IEEE TWC Popular Paper**)
@@ -70,7 +70,7 @@ My research interests include:
 13. Xu Yao, **Du Zhen**, Yuan Weijie, et al. Performance of OTFS-NOMA Scheme for Coordinated Direct and Relay Transmission Networks in High-Mobility Scenarios[J]. IEEE Wireless Communications Letters, 2023, 12(12): 2268-2272.
 14. 李韫鑫, 刘凡, **杜振**, 袁伟杰. 面向5G NR车联网的感知辅助通信低开销传输技术. 移动通信, 2023.
 
-## Conference Paper ## 
+## 📄 Conference Paper ## 
 1. **Du Zhen**, Liu Fan, Xiong Yifeng, et al. Probabilistic constellation shaping for OFDM-based ISAC signaling[C]. IEEE Global Communications Conference Workshops (GLOBECOM Workshops), Kuala Lumpur, Malaysia, Dec 2023.
 2. **Du Zhen**, Liu Fan, Zhang Zenghui. Sensing-assisted beam tracking in V2I networks: Extended target case[C]. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022: 8727-8731. (**Invited**)
 3. Xu Jingjing, **Du Zhen**, Wang Jie, Xu Yao. An Experimental Validation of ISAC With Probabilistic Constellation Shaping Under OFDM Signaling[C]. 2024 7th IEEE International Conference on Unmanned Systems.
