@@ -17,9 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
-# 🤵🏻 About Me
-
 I am currently an Associate Professor at Jiangsu Key Laboratory of Meteorological Observation and Information Processing, Nanjing University of Information Science and Technology (NUIST), Nanjing, China. 
 
 My research interests include:
