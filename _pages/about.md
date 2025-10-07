@@ -27,7 +27,7 @@ My research interests include:
 
 <a id="Education"></a>
 # 🎓 Education
-- *2016.09 - 2022.03*, Shanghai Jiao Tong University (SJTU), Information and Communication Engineering, Ph.D. Degree (Supervisors: Prof. Yirong Wu and Prof. Zenghui Zhang). 
+- *2016.09 - 2022.03*, Shanghai Jiao Tong University (SJTU), Information and Communication Engineering, Ph.D. Degree (Supervisors: Prof. [Yirong Wu](https://people.ucas.ac.cn/~wyr) and Prof. [Zenghui Zhang](https://faculty.sjtu.edu.cn/zhangzenghui/zh_CN/index/195699/list/index.htm)). 
 - *2012.09 - 2016.07*, Northwestern Polytechnical University (NWPU), Communication Engineering, B.Eng. Degree.
 
 <a id="Publications"></a>
