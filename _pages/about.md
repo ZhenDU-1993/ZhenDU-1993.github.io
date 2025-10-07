@@ -25,10 +25,12 @@ My research interests include:
 - Beam management in vehicular networks.
 - Radar signal processing.
 
+<a id="Education"></a>
 # 🎓 Education
 - *2016.09 - 2022.03*, Shanghai Jiao Tong University (SJTU), Information and Communication Engineering, Ph.D. Degree (Supervisors: Prof. Yirong Wu and Prof. Zenghui Zhang). 
 - *2012.09 - 2016.07*, Northwestern Polytechnical University (NWPU), Communication Engineering, B.Eng. Degree.
-  
+
+<a id="Publications"></a>
 # 📝 Publications 
 
 ## 📄 Book Chapter ## 
@@ -60,20 +62,24 @@ My research interests include:
 6. Li Yunxin, Liu Fan, **Du Zhen**, et al. ISAC-Enabled V2I Networks Based on 5G NR: How Much Can the Overhead Be Reduced?[C]. ***IEEE International Conference on Communications Workshops (ICC Workshops)***. IEEE, 2023: 691-696.
 7. Liu Yu, **Du Zhen**, Zhang Fuqiang, et al. Implementation of Radar-Communication System based on GNU-Radio and USRP[C]. ***Computing, Communications and IoT Applications (ComComAp)***. IEEE, 2019: 417-421.
 
+<a id="Honors-and-Awards"></a>
 # 🎖️ Honors and Awards
 - *2023.12*, Jiangsu Innovation and Entrepreneurship Doctor (江苏省双创博士), Department of Human Resources and Social Security, Jiangsu Province.
 - *2016.06*, Outstanding Undergraduate Student (校优秀本科毕业生), Northwestern Polytechnical University.
 
+<a id="Professional-Membership"></a>
 # 👥 Professional Membership
 - Member of Youth Academic Committee, Radar Society of the Chinese Institute of Electronics (CIE)
 - Member of IEEE, CIE
 
+<a id="Teaching"></a>
 # 📚 Teaching
 - Signal Detection and Estimation
 - Meteorological Information and Networks Technology
 - Electromagnetic Field and Electromagnetic Wave
 - Mobile Communications
 
+<a id="Projects"></a>
 # 📡 Projects
 - National Natural Science Foundation of China (国家自然科学基金青年项目), 2024.01-2026.12, PI
 - Natural Science Foundation of Jiangsu Province (江苏省科技计划青年基金项目), 2023.07-2026.06, PI
