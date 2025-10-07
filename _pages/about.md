@@ -51,7 +51,7 @@ My research interests include:
 11. Lu Qinghui, **Du Zhen**, Zhang Zenghui. OFDM Waveform Design with Subcarrier Interval Constraint for Narrowband Interference Suppression in ISAC Systems[J]. ***IEEE Communications Letters***, 2024, 28(7): 1554-1558. [\[PDF\]](https://ieeexplore.ieee.org/document/10522592)
 12. Zhang Zenghui, **Du Zhen**, Yu Wenxian. Mutual-information-based OFDM waveform design for integrated radar-communication system in Gaussian mixture clutter[J]. ***IEEE Sensors Letters***, 2019, 4(1): 1-4. [\[PDF\]](https://ieeexplore.ieee.org/document/8864020)
 13. Xu Yao, **Du Zhen**, Yuan Weijie, et al. Performance of OTFS-NOMA Scheme for Coordinated Direct and Relay Transmission Networks in High-Mobility Scenarios[J]. ***IEEE Wireless Communications Letters***, 2023, 12(12): 2268-2272. [\[PDF\]](https://ieeexplore.ieee.org/document/10261239)
-14. 李韫鑫, 刘凡, **杜振**, 袁伟杰. 面向5G NR车联网的感知辅助通信低开销传输技术. 移动通信, 2023. [\[PDF\]]
+14. 李韫鑫, 刘凡, **杜振**, 袁伟杰. 面向5G NR车联网的感知辅助通信低开销传输技术. 移动通信, 2023. [\[PDF\]](https://kns.cnki.net/kcms2/article/abstract?v=_Mh_dvKLMRvQwYCdSPnLQg-C3WhxJLr2ndCIOReHka13riKyvPsd1IwPo57LbTDt5wKJHrX5YqtBq8YfRUoxpoPSGRoY9MpDK_tI40ZMUD-8TF2XvXqdOTDZtExjzal6NAV1f4z4Y79SMOHGOMFZKBJKd1MKvFQIWn5J7mMc3ssBVq1Cam1A2Q==&uniplatform=NZKPT&language=CHS)
 
 ## 📄 Conference Paper ## 
 1. **Du Zhen**, Liu Fan, Xiong Yifeng, et al. Probabilistic constellation shaping for OFDM-based ISAC signaling[C]. ***IEEE Global Communications Conference Workshops (GLOBECOM Workshops)***, Kuala Lumpur, Malaysia, Dec 2023. [\[PDF\]](https://ieeexplore.ieee.org/document/10465080)
