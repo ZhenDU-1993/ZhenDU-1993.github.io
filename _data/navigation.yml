@@ -7,11 +7,11 @@ main:
      url: /about/#educations
 
   - title: "Publications"
-     url: /about/#-publications
+     url: /about/#publications
 
-  - title: "Honors and Awards"
-     url: /about/#-honors-and-awards
+  #- title: "Honors and Awards"
+   #  url: /about/#honors-and-awards
 
   - title: "Projects"
-     url: /about/#-projects
+     url: /about/#projects
 
