@@ -1,7 +1,5 @@
 # main links links
 main:
-  - title: "Main"
-    url: /
   - title: "Educations"
     url: /about/#Educations
   - title: "Publications"
