@@ -27,9 +27,9 @@ My research interests include:
 
 <a id="Education"></a>
 # 🎓 Education
+- *2016.09 - 2022.03*, Shanghai Jiao Tong University (SJTU), Information and Communication Engineering, **Ph.D. Degree** (Supervisors: Prof. [Yirong Wu](https://people.ucas.ac.cn/~wyr) and Prof. [Zenghui Zhang](https://faculty.sjtu.edu.cn/zhangzenghui/zh_CN/index/195699/list/index.htm)).
 - *2012.09 - 2016.07*, Northwestern Polytechnical University (NWPU), Communication Engineering, **B.Eng. Degree**.
 - *2021.05 - 2022.05*, Southern University of Science and Technology (SUSTech), Department of Electronic and Electrical Engineering, **Visiting Researcher** (Collaborators: Prof. [Fan Liu](https://radio.seu.edu.cn/2024/1225/c19937a515818/page.htm) and Prof. [Weijie Yuan](https://sdim.sustech.edu.cn/index/teacher_detail?id=83)).
-- *2016.09 - 2022.03*, Shanghai Jiao Tong University (SJTU), Information and Communication Engineering, **Ph.D. Degree** (Supervisors: Prof. [Yirong Wu](https://people.ucas.ac.cn/~wyr) and Prof. [Zenghui Zhang](https://faculty.sjtu.edu.cn/zhangzenghui/zh_CN/index/195699/list/index.htm)). 
 
 <a id="Publications"></a>
 # 📝 Publications 
