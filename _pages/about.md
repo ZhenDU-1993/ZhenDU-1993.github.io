@@ -65,8 +65,8 @@ My research interests include:
 
 <a id="Honors-and-Awards"></a>
 # 🎖️ Honors and Awards
-- *2023.12*, Jiangsu Innovation and Entrepreneurship Doctor (江苏省双创博士), Department of Human Resources and Social Security, Jiangsu Province.
-- *2016.06*, Outstanding Undergraduate Student (校优秀本科毕业生), Northwestern Polytechnical University.
+- *2023.12*, Jiangsu Innovation and Entrepreneurship Doctor, Department of Human Resources and Social Security, Jiangsu Province.
+- *2016.06*, Outstanding Undergraduate Student, Northwestern Polytechnical University.
 
 <a id="Professional-Membership"></a>
 # 👥 Professional Membership
