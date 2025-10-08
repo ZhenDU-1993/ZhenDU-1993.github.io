@@ -59,7 +59,7 @@ My research interests include:
 2. **Du Zhen**, Liu Fan, Zhang Zenghui. Sensing-assisted beam tracking in V2I networks: Extended target case[C]. ***IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)***. IEEE, 2022: 8727-8731. (<span style="color:red; font-weight:bold;">Invited</span>) [\[PDF\]](https://ieeexplore.ieee.org/document/9747255)
 3. Xu Jingjing, **Du Zhen**, Wang Jie, Xu Yao. An Experimental Validation of ISAC With Probabilistic Constellation Shaping Under OFDM Signaling[C]. ***IEEE International Conference on Unmanned Systems***. IEEE, 2024. [\[PDF\]](https://ieeexplore.ieee.org/document/10840131)
 4. Xu Yao, Jia Shaobo, Zhang Di, Liu Lilan, Zhang Zhizhong, **Du Zhen**. Spectral Efficiency of D2D-Enabled Cellular CDRT Systems Leveraging Backscatter NOMA[C]. ***IEEE Globecom Workshops (GC Wkshps)***. IEEE, 2023: 274-279. [\[PDF\]](https://ieeexplore.ieee.org/document/10464851)
-5. Lu Shihang, Meng Xiao, **Du Zhen**, et al. On the performance gain of integrated sensing and communications: A subspace correlation perspective[C]. ***IEEE International Conference on Communications （ICC）***. IEEE, 2023: 2735-2740. [\[PDF\]](https://ieeexplore.ieee.org/document/10279428)
+5. Lu Shihang, Meng Xiao, **Du Zhen**, et al. On the performance gain of integrated sensing and communications: A subspace correlation perspective[C]. ***IEEE International Conference on Communications (ICC)***. IEEE, 2023: 2735-2740. [\[PDF\]](https://ieeexplore.ieee.org/document/10279428)
 6. Li Yunxin, Liu Fan, **Du Zhen**, et al. ISAC-Enabled V2I Networks Based on 5G NR: How Much Can the Overhead Be Reduced?[C]. ***IEEE International Conference on Communications Workshops (ICC Workshops)***. IEEE, 2023: 691-696. [\[PDF\]](https://ieeexplore.ieee.org/document/10283528)
 7. Liu Yu, **Du Zhen**, Zhang Fuqiang, et al. Implementation of Radar-Communication System based on GNU-Radio and USRP[C]. ***Computing, Communications and IoT Applications (ComComAp)***. IEEE, 2019: 417-421. [\[PDF\]](https://ieeexplore.ieee.org/document/9018715)
 
@@ -82,10 +82,10 @@ My research interests include:
 
 <a id="Projects"></a>
 # 📡 Projects
-- National Natural Science Foundation of China (国家自然科学基金青年项目), 2024.01-2026.12, PI
-- Natural Science Foundation of Jiangsu Province (江苏省科技计划青年基金项目), 2023.07-2026.06, PI
-- Innovation and Entrepreneurship doctoral program of Jiangsu Province (江苏省创新创业博士项目), 2023-2025, PI
-- Startup Foundation for Introducing Talent of NUIST (南京信息工程大学引进人才启动经费), 2023.01-2025.12, PI
+- National Natural Science Foundation of China, 2024.01-2026.12, PI
+- Natural Science Foundation of Jiangsu Province, 2023.07-2026.06, PI
+- Innovation and Entrepreneurship doctoral program of Jiangsu Province, 2023-2025, PI
+- Startup Foundation for Introducing Talent of NUIST, 2023.01-2025.12, PI
 
 # 🔍 Reviewer for Journals
 - IEEE Journal on Selected Areas in Communications (JSAC)
