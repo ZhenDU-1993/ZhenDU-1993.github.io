@@ -72,7 +72,7 @@ My research interests include:
 # 👥 Professional Membership
 - Member of IEEE
 - Member of Youth Academic Committee, Radar Society of the Chinese Institute of Electronics (CIE)
-- Young Editorial Board Member of "Radar Science and Technology"
+- Young Editorial Board Member of [*Radar Science and Technology*](http://radarst.ijournal.cn/ldkxyjs/ch/index.aspx) (in Chinese)
 
 <a id="Teaching"></a>
 # 📚 Teaching
