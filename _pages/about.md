@@ -77,7 +77,6 @@ My research interests include:
 <a id="Teaching"></a>
 # 📚 Teaching
 - Signal Detection and Estimation
-- Meteorological Information and Networks Technology
 - Electromagnetic Field and Electromagnetic Wave
 - Mobile Communications
 
