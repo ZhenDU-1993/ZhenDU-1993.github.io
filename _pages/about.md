@@ -88,6 +88,7 @@ My research interests include:
 - Startup Foundation for Introducing Talent of NUIST, 2023.01-2025.12, PI
 
 # 🔍 Reviewer for Journals
+- IEEE Transactions on Signal Processing (TSP)
 - IEEE Journal on Selected Areas in Communications (JSAC)
 - IEEE Transactions on Wireless Communications (TWC)
 - IEEE Transactions on Communications (TCOM)
