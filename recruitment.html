@@ -3,111 +3,195 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>招生说明 | Recruitment</title>
+    <title>招生说明 | Recruitment - Du Lab</title>
     <style>
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
-                         "Helvetica Neue", Arial, "PingFang SC", "Hiragino Sans GB",
-                         "Microsoft YaHei", sans-serif;
-            line-height: 1.7;
-            max-width: 900px;
-            margin: 40px auto;
-            padding: 0 20px;
-            color: #222;
-            background-color: #ffffff;
+        :root {
+            --primary-color: #1a5cff;
+            --text-dark: #2d3436;
+            --text-light: #636e72;
+            --bg-color: #f8f9fa;
+            --card-bg: #ffffff;
+            --accent-color: #00cec9;
         }
 
-        h1, h2 {
-            color: #111;
-            margin-top: 2em;
+        body {
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+            line-height: 1.8;
+            background-color: var(--bg-color);
+            color: var(--text-dark);
+            margin: 0;
+            padding: 40px 20px;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: 0 auto;
+            background: var(--card-bg);
+            padding: 50px 60px;
+            border-radius: 16px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+        }
+
+        header {
+            border-bottom: 2px solid #eee;
+            padding-bottom: 20px;
+            margin-bottom: 40px;
+            text-align: center;
         }
 
         h1 {
-            font-size: 28px;
-            border-bottom: 2px solid #eee;
-            padding-bottom: 10px;
+            font-size: 2.2rem;
+            color: #000;
+            margin: 0;
+            letter-spacing: -0.5px;
+        }
+
+        h1 span {
+            color: var(--primary-color);
+            font-weight: 300;
+            margin-left: 10px;
+        }
+
+        .intro {
+            font-size: 1.1rem;
+            color: #444;
+            background: linear-gradient(135deg, #fdfbfb 0%, #ebedee 100%);
+            padding: 25px;
+            border-radius: 12px;
+            margin-bottom: 40px;
         }
 
         h2 {
-            font-size: 22px;
-            border-left: 4px solid #333;
-            padding-left: 10px;
+            font-size: 1.4rem;
+            display: flex;
+            align-items: center;
+            margin-top: 40px;
+            color: var(--primary-color);
         }
 
-        p {
-            margin: 12px 0;
+        h2::before {
+            content: "";
+            display: inline-block;
+            width: 4px;
+            height: 24px;
+            background: var(--primary-color);
+            margin-right: 12px;
+            border-radius: 2px;
         }
 
-        .highlight {
-            background: #f6f8fa;
-            padding: 15px;
-            border-radius: 6px;
-            border-left: 4px solid #0366d6;
+        ul {
+            list-style: none;
+            padding: 0;
         }
 
-        .warning {
-            background: #fff5f5;
-            padding: 15px;
-            border-radius: 6px;
-            border-left: 4px solid #d73a49;
+        li {
+            position: relative;
+            padding-left: 25px;
+            margin-bottom: 15px;
+            transition: transform 0.2s ease;
         }
 
-        a {
-            color: #0366d6;
-            text-decoration: none;
+        li::before {
+            content: "•";
+            position: absolute;
+            left: 0;
+            color: var(--primary-color);
+            font-weight: bold;
         }
 
-        a:hover {
-            text-decoration: underline;
+        li:hover {
+            transform: translateX(5px);
+        }
+
+        .success-case {
+            background: #e3f2fd;
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 5px solid var(--primary-color);
+            margin: 20px 0;
+        }
+
+        .apply-box {
+            background: #2d3436;
+            color: white;
+            padding: 35px;
+            border-radius: 12px;
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        .apply-box strong {
+            color: var(--accent-color);
+            font-size: 1.2rem;
+            display: block;
+            margin-top: 10px;
+        }
+
+        .apply-box p {
+            margin-bottom: 0;
+            opacity: 0.9;
         }
 
         footer {
-            margin-top: 40px;
-            font-size: 14px;
-            color: #666;
+            margin-top: 50px;
+            font-size: 0.9rem;
+            color: var(--text-light);
             text-align: center;
+        }
+
+        @media (max-width: 600px) {
+            .container { padding: 30px 20px; }
+            h1 { font-size: 1.6rem; }
         }
     </style>
 </head>
 
 <body>
 
-<h1>招生说明 / Recruitment</h1>
+<div class="container">
+    <header>
+        <h1>招生说明 <span>Recruitment</span></h1>
+    </header>
 
-<p>
-本课题组主要围绕<strong>5G-A/6G通信感知一体化技术</strong>开展研究，涉及低空无人机检测/定位/跟踪、低空成像通信一体化、车联网波束管理等。课题组拥有雷达通信系统样机，支持“理论算法+实测验证”的全链条研究路径。
-</p>
+    <div class="intro">
+        本课题组主要围绕 <strong>5G-A/6G 通信感知一体化技术</strong> 开展研究，涉及低空无人机检测/定位/跟踪、低空成像通信一体化、车联网波束管理等。我们支持“理论算法 + 实测验证”的全链条研究路径。
+    </div>
 
-<h2>关于研究生培养</h2>
-<ul>
-    <li>研究生阶段的核心在于科研训练：主动参与真实科研任务，在导师指导下逐步实现能力提升，并产出论文、专利、项目报告。（学校毕业有论文/专利发表要求，但用人单位招聘最专注的往往是项目经历）</li>
-    <li>关于导师-学生双选：<strong>不存在最好的导师/学生，只有合适的导师/学生</strong>，因此务必按需双选。</li>
-    <li>如果你更倾向于“以拿个学位毕业就完事为主要目标”，例如在没达到毕业要求的情况下就需要投入大量时间考公考编，或是习惯拿毕业的最低标准对照自己，那么本课题组的培养模式可能并不适合你。我带的第一位硕士今年正好毕业，成果包括中科院一区论文一篇，中文核心期刊一篇，专利两份，已经达到博士毕业标准，也顺利拿到中国移动offer。</li>
-</ul>
+    <h2>关于研究生培养</h2>
+    <ul>
+        <li><strong>科研训练为核心：</strong> 主动参与真实科研任务，在导师指导下逐步实现能力提升，产出高质量论文及专利。</li>
+        <li><strong>双选原则：</strong> 不存在最好的导师，只有最合适的导师，务必按需选择。</li>
+        <li><strong>培养目标：</strong> 如果你仅以“拿个学位”为唯一目标，或习惯于追求最低毕业标准，本课题组的培养模式可能并不适合你。</li>
+    </ul>
 
-<h2>我能提供的条件</h2>
-<ul>
-    <li>全程科研指导</li>
-    <li>论文版面费、专利代理费报销</li>
-    <li>学术会议、研讨会交流机会</li>
-    <li>研究生助研费（对于本部研究生，研一按照学校基本标准发放，研二/研三如果表现良好按照学校基本标准双倍发放，如发表高质量论文会有额外激励）</li>
-</ul>
+    <div class="success-case">
+        <strong>💡 培养成果参考：</strong><br>
+        首位硕士生今年毕业，已发表中科院一区论文 1 篇、中文核心 1 篇、专利 2 份，成果已达博士毕业标准，并顺利入职中国移动。
+    </div>
+
+    <h2>我能提供的条件</h2>
+    <ul>
+        <li><strong>专业指导：</strong> 全程科研随诊式指导，避免科研误区。</li>
+        <li><strong>经费支持：</strong> 论文版面费、专利代理费全额报销。</li>
+        <li><strong>学术交流：</strong> 提供国内外高水平学术会议、研讨会的参与机会。</li>
+        <li><strong>生活保障：</strong> 研二、研三表现良好者，助研费将在学校标准基础上翻倍，高质量论文另设激励。</li>
+    </ul>
     
-<h2>希望你具备的特质</h2>
-<ul>
-    <li>具备较强的科研主动性，对科研有兴趣，愿意长期投入。如果你对读博有兴趣，我会格外欢迎（如果你硕士阶段成果确实不错，我全力推荐你到上海交大、东南大学等强组。）</li>
-    <li>基本的数学、信号处理、编程能力（MATLAB）和英文阅读能力（我们研究的主要技术工具是信号处理）</li>
-</ul>
+    <h2>希望你具备的特质</h2>
+    <ul>
+        <li><strong>主动性：</strong> 具备较强的科研主动性，对技术探索有好奇心。特别欢迎有读博意向的同学，优秀者可推荐至上海交大、东南大学等顶尖团队。</li>
+        <li><strong>基本功：</strong> 具备基础的数学、信号处理能力，熟悉 MATLAB 编程及英文文献阅读。</li>
+    </ul>
 
-<h2>如何申请</h2>
-<p>
-请将个人简历、成绩单、科研或项目经历（如有）发送至邮箱：
-<strong>duzhen@nuist.edu.cn</strong>
-</p>
+    <div class="apply-box">
+        <p>有意向者请将个人简历、成绩单、科研经历发送至</p>
+        <strong>duzhen@nuist.edu.cn</strong>
+    </div>
 
-<footer>
-    © 2026 Zhen Du · All Rights Reserved
-</footer>
+    <footer>
+        © 2026 Zhen Du · NUIST · 通信感知一体化课题组
+    </footer>
+</div>
 
 </body>
 </html>
