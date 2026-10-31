@@ -64,21 +64,6 @@ My research interests include:
 6. Li Yunxin, Liu Fan, **Du Zhen**, et al. ISAC-Enabled V2I Networks Based on 5G NR: How Much Can the Overhead Be Reduced?[C]. ***IEEE International Conference on Communications Workshops (ICC Workshops)***. IEEE, 2023: 691-696. [\[PDF\]](https://ieeexplore.ieee.org/document/10283528)
 7. Liu Yu, **Du Zhen**, Zhang Fuqiang, et al. Implementation of Radar-Communication System based on GNU-Radio and USRP[C]. ***Computing, Communications and IoT Applications (ComComAp)***. IEEE, 2019: 417-421. [\[PDF\]](https://ieeexplore.ieee.org/document/9018715)
 
-# 📡 Projects
-- National Natural Science Foundation of China, 2024.01-2026.12, PI
-- Natural Science Foundation of Jiangsu Province, 2023.07-2026.06, PI
-- Innovation and Entrepreneurship Doctoral Program of Jiangsu Province, 2023-2025, PI
-- Startup Foundation for Introducing Talent of NUIST, 2023.01-2025.12, PI
-
-# 🎖️ Honors and Awards
-- *2023.12*, Jiangsu Innovation and Entrepreneurship Doctor, Department of Human Resources and Social Security, Jiangsu Province.
-- *2016.06*, Outstanding Undergraduate Student, Northwestern Polytechnical University.
-
-# 📚 Teaching
-- Signal Detection and Estimation
-- Electromagnetic Field and Electromagnetic Wave
-- Mobile Communications
-
 # 💼 Professional Service
 
 ### Professional Memberships
